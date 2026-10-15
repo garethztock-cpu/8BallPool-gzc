@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--
-        My device: Xiaomi Mi A1
-        My android version: 9
+        My device: Galaxy A13
+        My android version: 14
 
         Use the Landscape mode
         In Landscape mode, the values X and Y are inverted
 
         Portrait:
         Device Width: X => 1080
-        Device Height: Y => 1920
+        Device Height: Y => 2408
 
         Landscape:
-        Device Width: X => 1920
+        Device Width: X => 2408
         Device Height: Y => 1080
 
         Find the dimensions of your device in MainActivity ( DEBUG )
